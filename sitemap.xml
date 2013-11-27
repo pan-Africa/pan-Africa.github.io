@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://pan-Africa.github.io/blog/2013/11/27/ayoyoyooooooo/</loc>
+        <lastmod>2013-11-27T09:35:16+03:00</lastmod>
+    </url>
+    <url>
         <loc>http://pan-Africa.github.io/assets/bootstrap/about.html</loc>
         <lastmod>2013-11-27T09:14:46+03:00</lastmod>
     </url>
@@ -22,7 +26,7 @@
     </url>
     <url>
         <loc>http://pan-Africa.github.io/assets/bootstrap/</loc>
-        <lastmod>2013-11-27T09:14:46+03:00</lastmod>
+        <lastmod>2013-11-27T09:35:16+03:00</lastmod>
     </url>
     <url>
         <loc>http://pan-Africa.github.io/assets/bootstrap/javascript.html</loc>
@@ -30,11 +34,11 @@
     </url>
     <url>
         <loc>http://pan-Africa.github.io/blog/archives/</loc>
-        <lastmod>2013-11-27T09:14:46+03:00</lastmod>
+        <lastmod>2013-11-27T09:35:16+03:00</lastmod>
     </url>
     <url>
         <loc>http://pan-Africa.github.io/</loc>
-        <lastmod>2013-11-27T09:14:46+03:00</lastmod>
+        <lastmod>2013-11-27T09:35:16+03:00</lastmod>
     </url>
     <url>
         <loc>http://pan-Africa.github.io/robots.txt</loc>
