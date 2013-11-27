@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[pan Africa]]></title>
+  <link href="http://pan-Africa.github.io/atom.xml" rel="self"/>
+  <link href="http://pan-Africa.github.io/"/>
+  <updated>2013-11-27T09:23:38+03:00</updated>
+  <id>http://pan-Africa.github.io/</id>
+  <author>
+    <name><![CDATA[pan Africa]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
